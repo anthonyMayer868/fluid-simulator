@@ -3,6 +3,8 @@
 # A Simple Fluid Solver based on the FFT
 #               Jos Stam
 # http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/jgt01.pdf
+#Author Jesse Johnson University of Montana
+#modifications by Tony Mayer
 
 import numpy as np
 from scipy.interpolate import griddata
